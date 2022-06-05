@@ -1,7 +1,7 @@
-[![Mena Elvis GitHub Banner](https://res.cloudinary.com/richy-jones/image/upload/v1653862102/githubbanner.png)](https://mena-resume.netlify.com/)
+[![Mena Elvis GitHub Banner](https://res.cloudinary.com/richy-jones/image/upload/v1654426242/githubbanner.png)](https://mena-resume.netlify.com/)
 
 <h1 align="center">Hi 👋, I'm Efemena Elvis</h1>
-<h3 align="center">A software engineer, focused on building digital experience and human-centered products</h3>
+<h3 align="center">A software engineer, focused on building digital experience and human-centered products to customers, while writing a clean and maintainable code as much as I can for my engineering colleagues both in-house and open source. </h3>
 
 <p></p>
 <p></p>
