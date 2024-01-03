@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Efemena Elvis</h1>
 <p>
-<h3 align="center">A software engineer, focused on building digital experience and human-centered products to customers, while writing a clean and maintainable code as much as I can for my engineering colleagues both in-house and on open source projects. </h3>
+<h3 align="center">A software engineer, focused on building digital experience and human-centered products for customers while writing clean and maintainable code as much as I can for my engineering colleagues both in-house and on open source projects. </h3>
 </p>
 
 <hr/>
@@ -15,13 +15,11 @@
 
 - 🔭 I’m currently working on [a project management web app](https://github.com/Richy8/notes-todos-client-react)
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **React, Vue, Javascript, Python, PHP**
 
 - 📫 How to reach me **menaelvisjones@gmail.com**
 
-- ⚡ Fun fact **I was 17 when I gave my first class lecture, which over the years has helped me develop leadership, communication and listening skills.**
+- ⚡ Fun fact **I was 17 when I gave my first class lecture, which over the years has helped me develop leadership, communication, and listening skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
