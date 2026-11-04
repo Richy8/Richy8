@@ -10,7 +10,7 @@ Engineering Manager and hands-on engineer building payment infrastructure and AI
 ## What I work on
 
 - **Payments:** orchestration across multiple PSPs with automatic failover, immutable double-entry ledgers, reconciliation and settlement (T+3 to T+1).
-- **Distributed systems:** event-driven settlement and webhooks with idempotent consumers and dead-letter queues, which cut production incidents by over 80%.
+- **Distributed systems:** event-driven settlement and webhooks with idempotent consumers and dead-letter queues, which cut production incidents by about 80%.
 - **Platform and cost:** Terraform-managed infrastructure and an AWS to Hetzner migration that cut cloud costs by more than 50%.
 - **Frontend platforms:** micro-frontends with Webpack Module Federation, shared component libraries.
 - **AI agents:** provider routing, MCP, tool guardrails, structured output, streaming and cost budgets.
